@@ -1,9 +1,10 @@
-### Hi there 👋
+<div id= "header"  aling="center">
+   <h1 aling="center">Hi there 👋 I'm Daniel</h1>
 
-<!--
-**DanielToledo-99/DanielToledo-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 aling="center" >Professional of the Software Design and Development career 💻</h3>
 
-Here are some ideas to get you started:
+
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
